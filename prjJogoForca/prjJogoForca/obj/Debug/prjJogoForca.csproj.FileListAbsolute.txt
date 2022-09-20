@@ -1,0 +1,27 @@
+c:\users\aluno\documents\visual studio 2013\Projects\prjJogoForca\prjJogoForca\bin\Debug\prjJogoForca.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\prjJogoForca\prjJogoForca\bin\Debug\prjJogoForca.exe
+c:\users\aluno\documents\visual studio 2013\Projects\prjJogoForca\prjJogoForca\bin\Debug\prjJogoForca.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.Form1.resources
+c:\users\aluno\documents\visual studio 2013\Projects\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.exe
+c:\users\aluno\documents\visual studio 2013\Projects\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.pdb
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\bin\Debug\prjJogoForca.exe.config
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.exe
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.pdb
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\bin\Debug\prjJogoForca.exe
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\bin\Debug\prjJogoForca.pdb
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.csprojResolveAssemblyReference.cache
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.Form1.resources
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.Properties.Resources.resources
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.csproj.GenerateResource.Cache
+E:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\bin\Debug\prjJogoForca.exe.config
+E:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.exe
+E:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.pdb
+E:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.Form1.resources
+E:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.Properties.Resources.resources
+E:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.csproj.GenerateResource.Cache
+E:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\bin\Debug\prjJogoForca.exe
+E:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\bin\Debug\prjJogoForca.pdb
+E:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\prjJogoForca\prjJogoForca\prjJogoForca\obj\Debug\prjJogoForca.csprojResolveAssemblyReference.cache
